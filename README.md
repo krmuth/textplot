@@ -1,5 +1,9 @@
 # Textplot
 
+This variant modifies the stopword list of David McClure's Textplot, allowing the app to plot high-frequency verbs. 
+
+McClure's original documentation follows: 
+
 <sup><a href="http://textplot.s3-website-us-west-1.amazonaws.com/#mental-maps/war-and-peace" target="_new">**_War and Peace_**</a> (click to zoom)</sup>
 
 <a href="http://textplot.s3-website-us-west-1.amazonaws.com/#mental-maps/war-and-peace" target="_new">![War and Peace](notes/mental-maps/networks/war-and-peace.jpg)</a>
