@@ -43,7 +43,6 @@ available
 away
 awfully
 b
-back
 because
 before
 beforehand
@@ -163,6 +162,7 @@ insofar
 instead
 into
 inward
+it
 it's
 its
 itself
@@ -389,6 +389,7 @@ using
 usually
 uucp
 v
+ve
 value
 various
 very
